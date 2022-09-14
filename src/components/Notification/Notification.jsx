@@ -1,3 +1,5 @@
+import { NoteText } from './NotificationStyle';
+
 export const Notification = () => {
-  return <p>There is no feedback</p>;
+  return <NoteText>There is no feedback</NoteText>;
 };
